@@ -496,6 +496,7 @@ C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\ne
 C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\PlaywrightApiTest.AssemblyInfoInputs.cache
 C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\PlaywrightApiTest.AssemblyInfo.cs
 C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\PlaywrightApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\PlaywrightApiTest.sourcelink.json
 C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\Playwrig.74BB2C2F.Up2Date
 C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\PlaywrightApiTest.dll
 C:\Users\Shakil\source\repos\PlaywrightApiTestPOC\PlaywrightApiTest\obj\Debug\net10.0\refint\PlaywrightApiTest.dll
