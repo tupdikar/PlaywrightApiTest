@@ -8,3 +8,4 @@ node_modules/
 /playwright/.auth/
 /.vs/PlaywrightApiTest.slnx/FileContentIndex/afec43d6-4aef-4812-aae7-be382e523c31.vsidx
 /.vs/PlaywrightApiTest.slnx/FileContentIndex
+/.vs/PlaywrightApiTest.slnx/DesignTimeBuild/.dtbcache.v2
