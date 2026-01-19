@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\",
+  "WorkspaceRootPath": "C:\\SigmaProjects\\Playwright_Api_Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3964F110-1EEB-F98F-DCE3-8994750A1045}|PlaywrightApiTest.csproj|c:\\users\\shakil\\source\\repos\\playwrightapitestpoc\\playwrightapitest\\api\\baseapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3964F110-1EEB-F98F-DCE3-8994750A1045}|PlaywrightApiTest.csproj|c:\\sigmaprojects\\playwright_api_tests\\api\\baseapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3964F110-1EEB-F98F-DCE3-8994750A1045}|PlaywrightApiTest.csproj|solutionrelative:api\\baseapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3964F110-1EEB-F98F-DCE3-8994750A1045}|PlaywrightApiTest.csproj|c:\\users\\shakil\\source\\repos\\playwrightapitestpoc\\playwrightapitest\\playwrightapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3964F110-1EEB-F98F-DCE3-8994750A1045}|PlaywrightApiTest.csproj|c:\\sigmaprojects\\playwright_api_tests\\playwrightapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3964F110-1EEB-F98F-DCE3-8994750A1045}|PlaywrightApiTest.csproj|solutionrelative:playwrightapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -18,25 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BaseApiTest.cs",
-              "DocumentMoniker": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\Api\\BaseApiTest.cs",
+              "DocumentMoniker": "C:\\SigmaProjects\\Playwright_Api_Tests\\Api\\BaseApiTest.cs",
               "RelativeDocumentMoniker": "Api\\BaseApiTest.cs",
-              "ToolTip": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\Api\\BaseApiTest.cs",
+              "ToolTip": "C:\\SigmaProjects\\Playwright_Api_Tests\\Api\\BaseApiTest.cs",
               "RelativeToolTip": "Api\\BaseApiTest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T07:07:18.84Z",
               "EditorCaption": ""
@@ -44,15 +36,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlaywrightApiTest",
-              "DocumentMoniker": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\PlaywrightApiTest.csproj",
+              "Title": "PlaywrightApiTest.csproj",
+              "DocumentMoniker": "C:\\SigmaProjects\\Playwright_Api_Tests\\PlaywrightApiTest.csproj",
               "RelativeDocumentMoniker": "PlaywrightApiTest.csproj",
-              "ToolTip": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\PlaywrightApiTest.csproj",
+              "ToolTip": "C:\\SigmaProjects\\Playwright_Api_Tests\\PlaywrightApiTest.csproj",
               "RelativeToolTip": "PlaywrightApiTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-22T07:07:06.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T07:07:06.207Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         },

@@ -2122,23 +2122,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shakil\\.nuget\\packages\\": {},
+    "C:\\Users\\ShakeelAminodinTupdi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\PlaywrightApiTest.csproj",
+      "projectUniqueName": "C:\\SigmaProjects\\Playwright_Api_Tests\\PlaywrightApiTest.csproj",
       "projectName": "PlaywrightApiTest",
-      "projectPath": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\PlaywrightApiTest.csproj",
-      "packagesPath": "C:\\Users\\Shakil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shakil\\source\\repos\\PlaywrightApiTestPOC\\PlaywrightApiTest\\obj\\",
+      "projectPath": "C:\\SigmaProjects\\Playwright_Api_Tests\\PlaywrightApiTest.csproj",
+      "packagesPath": "C:\\Users\\ShakeelAminodinTupdi\\.nuget\\packages\\",
+      "outputPath": "C:\\SigmaProjects\\Playwright_Api_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shakil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ShakeelAminodinTupdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2214,7 +2214,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

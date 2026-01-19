@@ -1,0 +1,7 @@
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <BASE_API_URL>https://idassist.eonslg-qa.com/</BASE_API_URL>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>

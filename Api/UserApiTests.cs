@@ -1,8 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Microsoft.Playwright;
 using NUnit.Framework;
+using PlaywrightApiTest.Utils;
+using System;
+using System.Collections.Generic;
+using System.Net;
+using System.Text;
 using System.Text.Json;
+
 
 namespace PlaywrightApiTest.Api
 {
@@ -10,15 +14,27 @@ namespace PlaywrightApiTest.Api
     [TestFixture]
     public class UserApiTests : BaseApiTest
     {
-        [Test]
-        public async Task GetUsers_ShouldReturn200()
+        [TestFixture]
+        public class UserApiTest : BaseApiTest
         {
-            var response = await Request.GetAsync("/api/users?page=2");
+            [Test]
+            public async Task Create_User_Should_Return_201()
+            {
+                var payload = new
+                {
+                    name = "Agnès",
+                    role = "Tester"
+                };
 
-            Assert.That(response.Status, Is.EqualTo(200));
+                var response = await _request.PostAsync(
+                    ApiEndpoints.CreateUser,
+                    new APIRequestContextOptions
+                    {
+                        Data = payload
+                    });
 
-            var responseBody = await response.TextAsync();
-            Assert.That(responseBody, Does.Contain("email"));
+                Assert.That(response.Status, Is.EqualTo((int)HttpStatusCode.Created));
+            }
         }
     }
 

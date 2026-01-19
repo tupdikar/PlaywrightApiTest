@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PlaywrightApiTest.Utils
+namespace PlaywrightApiTest.TestInputFile
 {
-    internal class ApiEndpoints
+    class payloads
     {
     }
 }
